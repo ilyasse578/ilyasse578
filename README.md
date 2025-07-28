@@ -2,23 +2,23 @@
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="60%" alt="Hello Coders"/>
 
-# مرحبا، أنا إلياس 👋  
-### 💻 مبرمج طموح كيتعلم C# و قواعد البيانات
+# Hi there 👋 I'm Ilyasse  
+### 💻 Beginner Programmer learning C# & Databases
 
 </div>
 
 ---
 
-### 👨‍🎓 حاليا:
+### 🎓 Currently Learning:
 
-- كنقرا مع الأستاذ **محمد أبو هدهود** ❤️
-- وصلت لـ **الكورس 15 - Database**
-- تعلمت أساسيات **C++** ودرت بها بعض المشاريع البسيطة
-- دابا كنركز على **C#** و**SQL Databases**
+- Following the **Mohamed Abou Hadhood** C# course series  
+- I'm now in **Course 15 – Databases**
+- I already learned **C++** and built a few small projects  
+- Now focused on **C# + SQL** and real-world application development
 
 ---
 
-### ⚒️ المهارات ديالي حالياً:
+### 🧰 Tools & Languages I'm using:
 
 ![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -28,35 +28,27 @@
 
 ---
 
-### 🚀 المشاريع السابقة:
+### 📌 Some of my small projects:
 
-- ✅ برنامج لإدارة التذاكر بلغة C++
-- ✅ مشروع بسيط لحساب التواريخ بدون دوال جاهزة
-- ✅ تجربة مع الملفات `fstream` و `vectors` في C++
-
-> مزال البدايات، ولكن كل نهار كنزيد نطور المهارات ديالي 💪
+- ✅ Ticket management system (C++)
+- ✅ Date calculator without built-in functions
+- ✅ File handling, vectors, and loops practice in C++
 
 ---
 
-### 📌 أهدافي:
+### 🎯 My goals:
 
-- إتقان C# و .NET  
-- فهم عميق لـ SQL و إدارة قواعد البيانات  
-- إنشاء تطبيقات حقيقية للمستخدمين  
-- نشر مشاريع مفتوحة المصدر على GitHub
+- Master **C# and .NET**
+- Get comfortable with **SQL databases**
+- Build real-life apps and publish them on GitHub
+- Keep learning one thing at a time, every day!
 
 ---
 
-### 📬 تواصل معايا:
+### 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/username)
-
----
-
-### 🙃 معلومة عشوائية:
-
-> كتحرق 150 سعرة حرارية إلى ضربتي راسك فالحائط ساعة 😄 (ما تجربهاش لوول)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/your_username)
 
 ---
 
@@ -64,5 +56,5 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/><br>
-<em>Code. Error. Fix. Repeat.</em>
+<em>Code. Debug. Learn. Repeat.</em>
 </div>
