@@ -1,9 +1,7 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" width="60%" alt="Hello Coders"/>
-
-# Hi there 👋 I'm Ilyasse  
-### 💻 Beginner Programmer learning C# & Databases
+  <h1>Hi there 👋 I'm Ilyasse Kobbi</h1>  
+  <h3>💻 Beginner Programmer learning C# & Databases</h3>
 
 </div>
 
@@ -33,6 +31,7 @@
 - ✅ Ticket management system (C++)
 - ✅ Date calculator without built-in functions
 - ✅ File handling, vectors, and loops practice in C++
+- ✅ Bank management system (C++)
 
 ---
 
@@ -47,14 +46,26 @@
 
 ### 📫 How to reach me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilyasse@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ilyasse)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilyaskobbi578@gmail.com)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ilyassekobbi)
 
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/><br>
-<em>Code. Debug. Learn. Repeat.</em>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/><br>
+  <em>Code. Debug. Learn. Repeat.</em>
+</div>
+
+---
+
+<div align="center">
+
+  <h3>📊 GitHub Stats</h3>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyassekobbi&show_icons=true&theme=radical" alt="Ilyasse's GitHub stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassekobbi&layout=compact&theme=radical" alt="Top languages" />
+
 </div>
