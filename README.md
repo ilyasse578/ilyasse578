@@ -64,8 +64,8 @@
 
   <h3>📊 GitHub Stats</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyassekobbi&show_icons=true&theme=radical" alt="Ilyasse's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyasse578&show_icons=true&theme=radical" alt="Ilyasse's GitHub stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyassekobbi&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasse578&layout=compact&theme=radical" alt="Top languages" />
 
 </div>
