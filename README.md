@@ -9,8 +9,8 @@
 
 ### 🎓 Currently Learning:
 
-- Following the **Mohamed Abou Hadhood** C# course series  
-- I'm now in **Course 15 – Databases**
+- Following a comprehensive C# course series  
+- I'm now in **Course 15 – Databases**  
 - I already learned **C++** and built a few small projects  
 - Now focused on **C# + SQL** and real-world application development
 
@@ -28,18 +28,18 @@
 
 ### 📌 Some of my small projects:
 
-- ✅ Ticket management system (C++)
-- ✅ Date calculator without built-in functions
-- ✅ File handling, vectors, and loops practice in C++
+- ✅ Ticket management system (C++)  
+- ✅ Date calculator without built-in functions  
+- ✅ File handling, vectors, and loops practice in C++  
 - ✅ Bank management system (C++)
 
 ---
 
 ### 🎯 My goals:
 
-- Master **C# and .NET**
-- Get comfortable with **SQL databases**
-- Build real-life apps and publish them on GitHub
+- Master **C# and .NET**  
+- Get comfortable with **SQL databases**  
+- Build real-life apps and publish them on GitHub  
 - Keep learning one thing at a time, every day!
 
 ---
@@ -52,20 +52,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/><br>
   <em>Code. Debug. Learn. Repeat.</em>
-</div>
-
----
-
-<div align="center">
-
-  <h3>📊 GitHub Stats</h3>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyasse578&show_icons=true&theme=radical" alt="Ilyasse's GitHub stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasse578&layout=compact&theme=radical" alt="Top languages" />
-
 </div>
