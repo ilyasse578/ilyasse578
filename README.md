@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi there 👋 I'm Ilyasse Kobbi</h1>  
+  <h1>Hi there 👋 I'm Ilyasse El Idrissi</h1>  
   <h3>💻 Beginner Programmer learning C# & Databases</h3>
 
 </div>
