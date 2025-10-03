@@ -10,10 +10,6 @@
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=IlyasseElIdrissi&style=flat&color=4010B0" height="43"/> <!-- Profile Views -->
-</p>
-
-<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ilyasse&style=flat&color=4010B0" height="43"/> <!-- Profile Views -->
 </p>
 
