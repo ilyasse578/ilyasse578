@@ -9,7 +9,6 @@
 
 </div>
 
----
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=IlyasseElIdrissi&style=flat&color=4010B0" height="43"/> <!-- Profile Views -->
 </p>
@@ -23,6 +22,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_2019_Logo.svg" height="40"/>
   </a>
 </p>
+
 
 
 
