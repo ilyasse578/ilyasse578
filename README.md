@@ -13,16 +13,19 @@
   <img src="https://komarev.com/ghpvc/?username=IlyasseElIdrissi&style=flat&color=4010B0" height="43"/> <!-- Profile Views -->
 </p>
 
-<h3 align="left">📤 Connect with Me:</h3>
 <p align="left">
-  <a href="mailto:ilyaskobbi578@gmail.com" title="Email Me">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/ilyassekobbi" title="Telegram">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_2019_Logo.svg" height="40"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=ilyasse&style=flat&color=4010B0" height="43"/> <!-- Profile Views -->
 </p>
 
+<h3 align="left">📤 Connect with Me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ilyasse-kobbi"> <!-- LinkedIn Profile -->
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45"/>
+  </a>&nbsp;
+  <a href="mailto:ilyaskobbi578@gmail.com"> <!-- Gmail -->
+    <img src="https://github.com/user-attachments/assets/1a97a051-cc24-4738-a7a2-3f53365a9e93" height="35"/>
+  </a>&nbsp;
+</p>
 
 
 
