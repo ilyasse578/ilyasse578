@@ -11,6 +11,23 @@
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=IlyasseElIdrissi&style=flat&color=4010B0" height="43"/> <!-- Profile Views -->
+</p>
+
+<h3 align="left">📤 Connect with Me:</h3>
+<p align="left">
+  <a href="mailto:ilyaskobbi578@gmail.com" title="Email Me">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="40" style="transition: transform 0.3s, filter 0.3s;" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='brightness(1.2)';" onmouseout="this.style.transform='scale(1)'; this.style.filter='brightness(1)';"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://t.me/ilyassekobbi" title="Telegram">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" style="filter: invert(32%) sepia(94%) saturate(2366%) hue-rotate(182deg) brightness(95%) contrast(95%); transition: transform 0.3s, filter 0.3s;" 
+       onmouseover="this.style.transform='scale(1.2)'; this.style.filter='invert(50%) sepia(100%) saturate(4000%) hue-rotate(185deg) brightness(105%) contrast(105%)';" 
+       onmouseout="this.style.transform='scale(1)'; this.style.filter='invert(32%) sepia(94%) saturate(2366%) hue-rotate(182deg) brightness(95%) contrast(95%)';"/>
+</a>
+
+</p>
+
 ### 🎓 Currently Learning:
 
 - Following a comprehensive C# course series  
@@ -62,14 +79,6 @@
   <img src="https://streak-stats.demolab.com/?user=ilyasse&theme=tokyonight" height="150"/>
 </p>
 
----
-
-### 📫 How to reach me:
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ilyaskobbi578@gmail.com)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ilyassekobbi)
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
