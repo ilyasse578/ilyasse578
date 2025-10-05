@@ -34,23 +34,6 @@
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-  <!-- C++ -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" height="45"/>&nbsp;
-  <!-- C# -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" height="45"/>&nbsp;
-  <!-- .NET -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" height="45"/>&nbsp;
-  <!-- SQL Server -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="45"/>&nbsp;
-  <!-- Git -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="45"/>&nbsp;
-  <!-- GitHub -->
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="45"/>&nbsp;
-</p>
-
-
 ### 📌 Some of my small projects:
 
 - ✅ Ticket management system (C++)  
@@ -69,16 +52,29 @@
 
 ---
 
-### 📊 GitHub Stats:
 
+<h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyasse&layout=compact&langs_count=6&theme=tokyonight" height="150"/>
-  <img src="https://streak-stats.demolab.com/?user=ilyasse&theme=tokyonight" height="150"/>
+  <!-- C++ -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" height="45"/>&nbsp;
+  <!-- C# -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=cs" height="45"/>&nbsp;
+  <!-- .NET -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet" height="45"/>&nbsp;
+  <!-- SQL Server -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="45"/>&nbsp;
+  <!-- Git -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="45"/>&nbsp;
+  <!-- GitHub -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="45"/>&nbsp;
 </p>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <br>
-  <em>Code. Debug. Learn. Repeat.</em>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaskalli&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
+  <img src="https://streak-stats.demolab.com/?user=zakariaskalli&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+</p>
