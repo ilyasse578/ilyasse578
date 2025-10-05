@@ -51,8 +51,6 @@
 - Keep learning one thing at a time, every day!
 
 ---
-
-
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
   <!-- C++ -->
@@ -69,12 +67,14 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=github" height="45"/>&nbsp;
 </p>
 
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariaskalli&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp; <!-- Most Used Languages -->
-  <img src="https://streak-stats.demolab.com/?user=zakariaskalli&theme=highcontrast" height="120"/> <!-- GitHub Streak -->
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyasse578&layout=compact&langs_count=6&theme=highcontrast" height="120"/> &nbsp;
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=ilyasse578&theme=highcontrast" height="120"/>
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> <!-- Snake -->
+  <!-- Snake Contribution -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
