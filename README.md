@@ -28,8 +28,7 @@
 ### 🎓 Currently Learning:
 
 - Following a comprehensive C# course series  
-- Now in **Course 18 - C# & Database Connectivity**  
-- Already learned **C++** and built small projects  
+- Now in **Course 20 - C# Programming Level 2**  
 - Currently focused on **C# + SQL** and real-world app dev
 
 ---
