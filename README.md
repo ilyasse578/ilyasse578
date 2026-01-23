@@ -1,7 +1,8 @@
 <div align="center">
 
-  <h1>Hi there 👋 I'm Ilyasse Kobbi</h1>  
-  <h3>💻 Beginner Programmer learning C# & Databases</h3>
+  <h1>Hi there 👋 I'm Ilyasse Kobbi</h1>   
+  <h3>💻 Aspiring Full-Stack Developer | Learning C# & SQL Databases</h3>
+
 
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=2EF745&center=true&vCenter=true&width=435&lines=Learning+One+Thing+At+A+Time;C%23+%26+SQL+In+Progress;Passionate+About+Problem+Solving;Code.+Debug.+Learn.+Repeat." alt="Typing SVG" />
